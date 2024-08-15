@@ -29,3 +29,9 @@
 
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
+
+- Ethers 6.13.2
+
+  - [Documentation](ethers/documentation.md)
+  - [Getting Started](ethers/getting-started.md)
+    
